@@ -1,4 +1,0 @@
-HelloGitWorld
-=============
-
-HelloGitWorld
